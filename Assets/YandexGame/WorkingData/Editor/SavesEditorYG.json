@@ -1,0 +1,25 @@
+{
+    "idSave": 2075,
+    "isFirstSession": false,
+    "language": "en",
+    "promptDone": false,
+    "newPlayerName": "Hello!",
+    "openLevels": [
+        false,
+        true,
+        false
+    ],
+    "money": 17,
+    "boost": 1,
+    "click": 2,
+    "shopclick_1": true,
+    "shopclick_2": false,
+    "shopclick_3": false,
+    "shopclick_4": false,
+    "shopclick_5": false,
+    "shopBoost_1": true,
+    "shopBoost_2": false,
+    "shopBoost_3": false,
+    "shopBoost_4": false,
+    "shopBoost_5": false
+}
