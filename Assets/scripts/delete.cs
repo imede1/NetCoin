@@ -6,6 +6,6 @@ public class delete : MonoBehaviour
 {
     public void deleteprog(){
        YandexGame.ResetSaveProgress();
-        YandexGame.SaveProgress();
+       YandexGame.SaveProgress();
     }
 }

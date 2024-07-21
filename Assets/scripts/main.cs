@@ -58,6 +58,10 @@ public class main : MonoBehaviour {
         SceneManager.LoadScene(1);
         Mysave();
     }
+    public void Toachovki(){
+        SceneManager.LoadScene(2);
+        Mysave();
+    }
     void Update()
     {
         
