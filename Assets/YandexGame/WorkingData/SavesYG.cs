@@ -1,4 +1,6 @@
 
+using System.Security.Cryptography.X509Certificates;
+
 namespace YG
 {
     [System.Serializable]
@@ -28,8 +30,9 @@ namespace YG
         public bool shopBoost_3=false;
         public bool shopBoost_4=false;
         public bool shopBoost_5=false;
-        
-
+        public bool gold_medal=false;
+        public bool silver_medal=false;
+        public bool bronz_medal=false;
         // Ваши сохранения
 
         // ...
