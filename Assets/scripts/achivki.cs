@@ -22,8 +22,10 @@ public class achivki : MonoBehaviour
             LoadSaveCloud();
 
         }
+
         StartCoroutine(Idlefarm());
-         if (gold_medal == true)
+
+        if (gold_medal == true)
         {
             goldButton.interactable = false;
         }
@@ -56,18 +58,21 @@ public class achivki : MonoBehaviour
     public void get_gold_medal(){
 
         goldButton.interactable = false;
+        gold_medal=true;
         YandexGame.savesData.gold_medal=gold_medal;
         YandexGame.SaveProgress();
     }
     public void get_silver_medal(){
 
         silverButton.interactable = false;
+        silver_medal=true;
         YandexGame.savesData.silver_medal=silver_medal;
         YandexGame.SaveProgress();
     }
     public void get_bronz_medal(){
 
         bronzButton.interactable = false;
+        bronz_medal=true;
         YandexGame.savesData.bronz_medal=bronz_medal;
         YandexGame.SaveProgress();
     }

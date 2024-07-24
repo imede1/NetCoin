@@ -1,5 +1,5 @@
 {
-    "idSave": 2237,
+    "idSave": 2538,
     "isFirstSession": false,
     "language": "en",
     "promptDone": false,
@@ -9,7 +9,7 @@
         true,
         false
     ],
-    "money": 1,
+    "money": 18,
     "boost": 0,
     "click": 1,
     "shopclick_1": false,
@@ -22,7 +22,7 @@
     "shopBoost_3": false,
     "shopBoost_4": false,
     "shopBoost_5": false,
-    "gold_medal": false,
-    "silver_medal": false,
-    "bronz_medal": false
+    "gold_medal": true,
+    "silver_medal": true,
+    "bronz_medal": true
 }
