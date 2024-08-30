@@ -1,7 +1,7 @@
 {
-    "idSave": 2538,
+    "idSave": 2643,
     "isFirstSession": false,
-    "language": "en",
+    "language": "ru",
     "promptDone": false,
     "newPlayerName": "Hello!",
     "openLevels": [
@@ -9,7 +9,7 @@
         true,
         false
     ],
-    "money": 18,
+    "money": 0,
     "boost": 0,
     "click": 1,
     "shopclick_1": false,
@@ -22,7 +22,7 @@
     "shopBoost_3": false,
     "shopBoost_4": false,
     "shopBoost_5": false,
-    "gold_medal": true,
-    "silver_medal": true,
-    "bronz_medal": true
+    "gold_medal": false,
+    "silver_medal": false,
+    "bronz_medal": false
 }
