@@ -26,7 +26,8 @@ public class Change : MonoBehaviour {
         if(!isOn){
             AudioListener.volume= 1f;
             isOn=true;
-        }else{
+        }
+        else{
             AudioListener.volume= 0f;
             isOn=false;
         }
